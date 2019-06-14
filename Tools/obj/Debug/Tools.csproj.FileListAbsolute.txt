@@ -1,0 +1,6 @@
+D:\project\winform\dp\tool\Chick15kg\Tools\bin\Debug\Tools.dll
+D:\project\winform\dp\tool\Chick15kg\Tools\bin\Debug\Tools.pdb
+D:\project\winform\dp\tool\Chick15kg\Tools\obj\Debug\Tools.csprojAssemblyReference.cache
+D:\project\winform\dp\tool\Chick15kg\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+D:\project\winform\dp\tool\Chick15kg\Tools\obj\Debug\Tools.dll
+D:\project\winform\dp\tool\Chick15kg\Tools\obj\Debug\Tools.pdb

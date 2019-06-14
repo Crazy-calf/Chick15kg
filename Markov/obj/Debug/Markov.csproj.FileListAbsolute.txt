@@ -1,0 +1,11 @@
+D:\project\winform\dp\tool\Chick15kg\Markov\bin\Debug\Markov.dll
+D:\project\winform\dp\tool\Chick15kg\Markov\bin\Debug\Markov.pdb
+D:\project\winform\dp\tool\Chick15kg\Markov\bin\Debug\MathNet.Numerics.dll
+D:\project\winform\dp\tool\Chick15kg\Markov\bin\Debug\Tools.dll
+D:\project\winform\dp\tool\Chick15kg\Markov\bin\Debug\Tools.pdb
+D:\project\winform\dp\tool\Chick15kg\Markov\bin\Debug\MathNet.Numerics.pdb
+D:\project\winform\dp\tool\Chick15kg\Markov\obj\Debug\Markov.csprojAssemblyReference.cache
+D:\project\winform\dp\tool\Chick15kg\Markov\obj\Debug\Markov.csproj.CoreCompileInputs.cache
+D:\project\winform\dp\tool\Chick15kg\Markov\obj\Debug\Markov.csproj.CopyComplete
+D:\project\winform\dp\tool\Chick15kg\Markov\obj\Debug\Markov.dll
+D:\project\winform\dp\tool\Chick15kg\Markov\obj\Debug\Markov.pdb

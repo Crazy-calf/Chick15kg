@@ -1,0 +1,17 @@
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\bin\Debug\Chick15kg.exe.config
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\bin\Debug\Chick15kg.exe
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\bin\Debug\Chick15kg.pdb
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\obj\Debug\Chick15kg.csprojAssemblyReference.cache
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\obj\Debug\Chick15kg.Form1.resources
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\obj\Debug\Chick15kg.Properties.Resources.resources
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\obj\Debug\Chick15kg.csproj.GenerateResource.cache
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\obj\Debug\Chick15kg.csproj.CoreCompileInputs.cache
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\obj\Debug\Chick15kg.exe
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\obj\Debug\Chick15kg.pdb
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\bin\Debug\Markov.dll
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\bin\Debug\Tools.dll
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\bin\Debug\MathNet.Numerics.dll
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\bin\Debug\Markov.pdb
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\bin\Debug\Tools.pdb
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\bin\Debug\MathNet.Numerics.pdb
+D:\project\winform\dp\tool\Chick15kg\Chick15kg\obj\Debug\Chick15kg.csproj.CopyComplete

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chick15kg", "Chick15kg\Chick15kg.csproj", "{B423ED8D-73E8-4FA8-A9C1-A27B0E29E371}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Markov", "Markov\Markov.csproj", "{B7B3D96E-F724-4356-A071-120950088C24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools", "Tools\Tools.csproj", "{BD340638-16A5-4155-B27E-C3F02BFF2832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B423ED8D-73E8-4FA8-A9C1-A27B0E29E371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B423ED8D-73E8-4FA8-A9C1-A27B0E29E371}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B423ED8D-73E8-4FA8-A9C1-A27B0E29E371}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B423ED8D-73E8-4FA8-A9C1-A27B0E29E371}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B3D96E-F724-4356-A071-120950088C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B3D96E-F724-4356-A071-120950088C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B3D96E-F724-4356-A071-120950088C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B3D96E-F724-4356-A071-120950088C24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD340638-16A5-4155-B27E-C3F02BFF2832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD340638-16A5-4155-B27E-C3F02BFF2832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD340638-16A5-4155-B27E-C3F02BFF2832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD340638-16A5-4155-B27E-C3F02BFF2832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79C171D0-2126-4642-8146-F4E334A1A174}
+	EndGlobalSection
+EndGlobal
