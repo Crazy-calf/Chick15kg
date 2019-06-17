@@ -149,7 +149,7 @@ namespace Markov
 
             for (int i = 0; i < statusCount; i++) res[i] = new int[statusCount];
 
-            for (int i = 0; i < data.Count - 1; i++) res[data[i]][data[i + 1] - 1]++;
+            for (int i = 0; i < data.Count - 1; i++) res[data[i]-1][data[i + 1] - 1]++;
 
             return res;
         }
